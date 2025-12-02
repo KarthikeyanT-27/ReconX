@@ -1,0 +1,6 @@
+dnspython
+python-whois
+scapy
+mac-vendor-lookup
+requests
+cryptography
