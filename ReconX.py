@@ -99,7 +99,7 @@ def web_menu():
 
     return input(Fore.WHITE + "Select a tool: ").strip()
 
-
+#mainfunction
 def start():
     while True:
         choice = main_menu()
@@ -182,3 +182,4 @@ def start():
 
 if __name__ == "__main__":
     start()
+
