@@ -23,7 +23,6 @@ This modular, professional toolkit bundles essential scripts for learning and pe
       Choose an option: _
 
 🛠️Installation & Setup:
-
         1. Clone the Repository:
             git clone https://github.com/KarthikeyanT-27/ReconX
             cd ReconX
